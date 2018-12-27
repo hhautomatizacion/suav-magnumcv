@@ -13,19 +13,19 @@
 * Capturas de pantalla
 
 ---
-![2013-08-02 16.29.24.jpg](/Fotos/2013-08-02 16.29.24.jpg)
+![2013-08-02 16.29.24.jpg](/Fotos/2013-08-02%2016.29.24.jpg)
 ---
-![2013-08-02 16.29.35.jpg](/Fotos/2013-08-02 16.29.35.jpg)
+![2013-08-02 16.29.35.jpg](/Fotos/2013-08-02%2016.29.35.jpg)
 ---
-![2013-08-02 16.29.36.jpg](/Fotos/2013-08-02 16.29.36.jpg)
+![2013-08-02 16.29.36.jpg](/Fotos/2013-08-02%2016.29.36.jpg)
 ---
-![2013-08-02 16.29.41.jpg](/Fotos/2013-08-02 16.29.41.jpg)
+![2013-08-02 16.29.41.jpg](/Fotos/2013-08-02%2016.29.41.jpg)
 ---
-![2013-08-02 16.29.50.jpg](/Fotos/2013-08-02 16.29.50.jpg)
+![2013-08-02 16.29.50.jpg](/Fotos/2013-08-02%2016.29.50.jpg)
 ---
-![2013-08-02 16.29.51.jpg](/Fotos/2013-08-02 16.29.51.jpg)
+![2013-08-02 16.29.51.jpg](/Fotos/2013-08-02%2016.29.51.jpg)
 ---
-![2013-08-02 16.29.57.jpg](/Fotos/2013-08-02 16.29.57.jpg)
+![2013-08-02 16.29.57.jpg](/Fotos/2013-08-02%2016.29.57.jpg)
 ---
 ![DSC03434.JPG](/Fotos/DSC03434.JPG)
 ---
@@ -53,17 +53,17 @@
 ---
 ![Imagen0102.jpg](/Fotos/Imagen0102.jpg)
 ---
-![suavizadores 01.png](/Fotos/suavizadores 01.png)
+![suavizadores 01.png](/Fotos/suavizadores%2001.png)
 ---
-![suavizadores 02.png](/Fotos/suavizadores 02.png)
+![suavizadores 02.png](/Fotos/suavizadores%2002.png)
 ---
-![suavizadores 03.png](/Fotos/suavizadores 03.png)
+![suavizadores 03.png](/Fotos/suavizadores%2003.png)
 ---
-![suavizadores 04.png](/Fotos/suavizadores 04.png)
+![suavizadores 04.png](/Fotos/suavizadores%2004.png)
 ---
-![suavizadores 05.png](/Fotos/suavizadores 05.png)
+![suavizadores 05.png](/Fotos/suavizadores%2005.png)
 ---
-![suavizadores 06.png](/Fotos/suavizadores 06.png)
+![suavizadores 06.png](/Fotos/suavizadores%2006.png)
 ---
-![suavizadores 07.png](/Fotos/suavizadores 07.png)
+![suavizadores 07.png](/Fotos/suavizadores%2007.png)
 ---
